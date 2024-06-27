@@ -8,10 +8,10 @@ layout: default
 
 
 
-## Conference List
+# Conference List
 
 
-### Resource
+# Resources
 
 ```js
 // Javascript code with syntax highlighting.
@@ -23,13 +23,13 @@ var fun = function lang(l) {
 
 
 
-#### Instructions
+# Instructions
 
 
-##### FAQ
+# FAQ
 
 
-###### Tools
+# Tools
 
 <!-- | head1        | head two          | three |
 |:-------------|:------------------|:------|
@@ -38,7 +38,7 @@ var fun = function lang(l) {
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  | -->
 
-### Templates
+# Templates
 
 
 <!-- ### Here is an unordered list:
